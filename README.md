@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png" alt="Precision Career Logo" width="180"/>
+  <img src="logoShort.png" alt="Precision Career Logo" width="180"/>
 </p>
 
 <h1 align="center">Precision Career</h1>
