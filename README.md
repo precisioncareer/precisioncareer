@@ -61,15 +61,6 @@ We believe:
 
 ---
 
-## 🛠️ Tech & Tools (Planned)
-
-- Frontend: HTML, CSS, JavaScript / React
-- Backend: Node.js / Python (future scope)
-- Content: YouTube, PDFs, Online Tests
-- Hosting: precisioncareer.org
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions related to:
